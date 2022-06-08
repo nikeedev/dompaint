@@ -1,0 +1,9 @@
+#box {
+    margin: auto;
+    top: 0px;
+    right: 0px;
+    width: 40px;
+    height: 40px;
+    border: 10px solid black;
+    border-radius: 10px;
+}
